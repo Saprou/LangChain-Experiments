@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'LangChain-Experiments'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F82B836006AD4519A1EAB572B9971C8F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8BC30433779B41AF8E35365A550BDFBF }}
